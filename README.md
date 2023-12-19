@@ -34,21 +34,25 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![WhatsApp Image 2023-12-19 at 20 33 27_2296e9f9](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/717bbff9-5e21-4681-b5c5-8dd55bf6bebd)
+![WhatsApp Image 2023-12-19 at 20 33 17_be942326](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/c7ebddd4-4c3c-4b80-bc63-01d8d80f28ae)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![WhatsApp Image 2023-12-19 at 20 33 17_99d1e1b4](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/93ccf965-30af-4637-8fed-0e4e734b78a8)
+![WhatsApp Image 2023-12-19 at 20 33 21_cf594bbe](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/c136d9c0-bc7e-4f99-be9e-f02d072c48f8)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![WhatsApp Image 2023-12-19 at 20 33 21_cf594bbe](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/42c9a5b0-dc1d-42a8-b911-6c706c06b6f8)
+![WhatsApp Image 2023-12-19 at 20 33 33_96c39b89](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/5f4c33a3-ec2c-4808-9abd-237a2d1cac8d)
 
 ## Output:
+![WhatsApp Image 2023-12-19 at 20 33 13_35b0a495](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/07985c25-795e-439c-99ee-6d2067000228)
+![WhatsApp Image 2023-12-19 at 20 33 23_1d76a000](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/1689f0ed-67aa-4bc0-a0a8-55643fc84e4b)
+![WhatsApp Image 2023-12-19 at 20 33 15_56f62987](https://github.com/MabbuAdarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365583/f4a9439c-4d35-4a0c-b4b5-e1fa02267dde)
 
-### Name:
-### Register Number:
+### Name:Mabbu Adarsh
+### Register Number:23003981
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
